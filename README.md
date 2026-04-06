@@ -252,6 +252,18 @@ Examples:
 * User Service → 400x
 * Finance Service → 500x
 
+Used Swagger For Documentation
+User Service: 
+<img width="1336" height="859" alt="image" src="https://github.com/user-attachments/assets/9ba55728-08dc-44cc-8e5b-065cf5571ab5" />
+<img width="1435" height="819" alt="image" src="https://github.com/user-attachments/assets/bc35c473-71f1-4293-8363-a0c3c4a08c2b" />
+Schemas
+<img width="1096" height="534" alt="image" src="https://github.com/user-attachments/assets/a0934b9e-48fe-41d5-adc5-32ef575f7d32" />
+
+Financial Service
+<img width="1368" height="890" alt="image" src="https://github.com/user-attachments/assets/f93f2ca7-1397-480e-828b-3858a086a73a" />
+<img width="1403" height="903" alt="image" src="https://github.com/user-attachments/assets/12c2e25c-0de4-462d-863a-b45f3f3fa566" />
+Schemas
+<img width="1456" height="609" alt="image" src="https://github.com/user-attachments/assets/c869b117-3aaa-46bf-b6de-4262b95dfe70" />
 
 
 # 🧠 Design Decisions (Important)
