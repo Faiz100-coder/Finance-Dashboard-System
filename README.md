@@ -336,7 +336,7 @@ It demonstrates how to build a **structured, maintainable backend system** rathe
 
 # 🔗 Repository
 
-[https://bitbucket.org/faizans-workspace/workspace/projects/FDS](https://bitbucket.org/faizans-workspace/workspace/projects/FDS)
+(https://bitbucket.org/faizans-workspace/workspace/projects/FDS)
 
 
 
@@ -379,6 +379,7 @@ This project was built keeping the evaluation criteria in mind:
 * Clean naming conventions
 * DTO-based design
 * Builder pattern used
+* ModelMapper used
 
 ### 5. Database Design
 
@@ -389,12 +390,23 @@ This project was built keeping the evaluation criteria in mind:
 ### 6. Validation & Reliability
 
 * Bean validation used
-* Proper exception handling with HTTP status codes
+* Proper exception handling with HTTP status codes and error messages
 
 ### 7. Documentation
 
 * Clear API examples
 * Setup instructions included
+* Implement the Swagger for Documentation
+
+  ```
+  For UserService port: 8081
+  http://localhost:8080/swagger-ui/index.html
+  ```
+
+  ```
+  For FinancialService Port: 8081
+   http://localhost:8081/swagger-ui/index.html
+  ```
 
 ### 8. Additional Thoughtfulness
 
