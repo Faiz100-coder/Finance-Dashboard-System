@@ -366,6 +366,13 @@ This project was built keeping the evaluation criteria in mind:
   * User management
   * Financial records
   * Dashboard summary
+  * I used BcryptPasswordEncoder to encode the passsword because We all know that in real systems passwords are never store in a plain text    
+     userDB
+    <img width="833" height="95" alt="image" src="https://github.com/user-attachments/assets/3c5ed5b8-891e-4b29-8dbc-e038e8777bac" />
+   this is a Demo data used while testing
+ financial db
+<img width="977" height="365" alt="image" src="https://github.com/user-attachments/assets/66a45d2f-e3ba-4947-8a09-ed69d54aad63" />
+
 
 ### 4. Code Quality
 
